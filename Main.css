@@ -1,0 +1,18 @@
+.root {
+    -fx-background-color: BEIGE;
+}
+
+.button {
+    -fx-font-weight: bold;
+    -fx-text-fill: RED;
+}
+
+.cell .text {
+    -fx-font-family: sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 300%;
+}
+
+.info .label {
+    -fx-font-weight: bold;
+}
